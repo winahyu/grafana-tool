@@ -1,3 +1,5 @@
+#!/bin/sh
+
 KEY="your_grafana_key"
 HOST="your_grafana_host"
 
